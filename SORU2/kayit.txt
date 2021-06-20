@@ -1,0 +1,46 @@
+1.Matris:
+| 3  7  1  3  |
+| 4  7  9  4  |
+| 6  5  5  6  |
+| 1  6  4  9  |
+**************************
+2.Matris:
+| 4  8  9  8  |
+| 4  9  7  8  |
+| 2  4  1  2  |
+| 1  7  7  1  |
+*********************
+Matrislerin Toplamı:
+|7	15	10	11	|
+|8	16	16	12	|
+|8	9	6	8	|
+|2	13	11	10	|
+*********************
+Matrislerin Çarpımı:
+|45	112	98	85	|
+|66	159	122	110	|
+|60	155	136	104	|
+|45	141	118	73	|
+**********************
+Değer Okuma:
+1.Matris için
+4. satırın 1. sütunundaki değeri : 1
+2.Matris için
+4. satırın 3. sütunundaki değeri : 7
+**********************
+Matrisin İzi:
+1.Matris'in izi = 24
+2.Matris'in izi =15
+**********************
+Matrislerin Transpozlari:
+1.MATRİSİN TRANSPOZU:
+|3  4  6  1  |
+|7  7  5  6  |
+|1  9  5  4  |
+|3  4  6  9  |
+
+2.MATRİSİN TRANSPOZU:
+|4  4  2  1  |
+|8  9  4  7  |
+|9  7  1  7  |
+|8  8  2  1  |

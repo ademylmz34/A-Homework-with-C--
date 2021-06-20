@@ -1,0 +1,20 @@
+C:\Users\cotan\Desktop\uygulamalar\SORU2\SORU2\bin\Debug\SORU2.exe.config
+C:\Users\cotan\Desktop\uygulamalar\SORU2\SORU2\bin\Debug\SORU2.exe
+C:\Users\cotan\Desktop\uygulamalar\SORU2\SORU2\bin\Debug\SORU2.pdb
+C:\Users\cotan\Desktop\uygulamalar\SORU2\SORU2\obj\Debug\SORU2.csprojAssemblyReference.cache
+C:\Users\cotan\Desktop\uygulamalar\SORU2\SORU2\obj\Debug\SORU2.Form1.resources
+C:\Users\cotan\Desktop\uygulamalar\SORU2\SORU2\obj\Debug\SORU2.Properties.Resources.resources
+C:\Users\cotan\Desktop\uygulamalar\SORU2\SORU2\obj\Debug\SORU2.csproj.GenerateResource.cache
+C:\Users\cotan\Desktop\uygulamalar\SORU2\SORU2\obj\Debug\SORU2.csproj.CoreCompileInputs.cache
+C:\Users\cotan\Desktop\uygulamalar\SORU2\SORU2\obj\Debug\SORU2.exe
+C:\Users\cotan\Desktop\uygulamalar\SORU2\SORU2\obj\Debug\SORU2.pdb
+C:\Users\cotan\Desktop\ndp ödev2\SORU2\SORU2\bin\Debug\SORU2.exe.config
+C:\Users\cotan\Desktop\ndp ödev2\SORU2\SORU2\bin\Debug\SORU2.exe
+C:\Users\cotan\Desktop\ndp ödev2\SORU2\SORU2\bin\Debug\SORU2.pdb
+C:\Users\cotan\Desktop\ndp ödev2\SORU2\SORU2\obj\Debug\SORU2.csprojAssemblyReference.cache
+C:\Users\cotan\Desktop\ndp ödev2\SORU2\SORU2\obj\Debug\SORU2.Form1.resources
+C:\Users\cotan\Desktop\ndp ödev2\SORU2\SORU2\obj\Debug\SORU2.Properties.Resources.resources
+C:\Users\cotan\Desktop\ndp ödev2\SORU2\SORU2\obj\Debug\SORU2.csproj.GenerateResource.cache
+C:\Users\cotan\Desktop\ndp ödev2\SORU2\SORU2\obj\Debug\SORU2.csproj.CoreCompileInputs.cache
+C:\Users\cotan\Desktop\ndp ödev2\SORU2\SORU2\obj\Debug\SORU2.exe
+C:\Users\cotan\Desktop\ndp ödev2\SORU2\SORU2\obj\Debug\SORU2.pdb

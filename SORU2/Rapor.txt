@@ -1,0 +1,11 @@
+Öncelikle form elemanlarını ana menü hariç diğer geçişlerde kodla oluşturdum teker teker.
+En başda textboxa değer girdiğimizde 2 tane matris oluşturuyor ve kare matris oluşturacağımız için en az 2*2 lik matris oluşturacak.
+Her butona tıkladığımızda karşımıza o olayla alakalı kontroller çıkıyor ve bir de anamenüye dön butonu çıkıyor ve bu butona tıkladığımızda karşımıza 
+tekrar anamenü elemanlarını getiriyor. Bunları da her seferinde kontrolleri geri al metoduyla çağırıyorum. Mesela matrisleri topla butonuna tıkladığımızda
+anamenüde ki kontrolleri gizliyor ve burada da kontrolleri gizle metodunu her olay için çağırıyorum ve o olayla alakalı kontrolleri teker teker kodla ekliyorum.
+Bazı yerler de radiobutonlar kullandım ve bunlara basınca mesela 1.matris için ayrı bir radiobutton tanımladım , 2.matris için ayrı.
+Bunlara tıklayınca seçtiğimiz matrisi richtextboxa yazdırıyor.
+Metin dosyasına kayıt içinde her olaya tıkladığımda o butonun tıklanma sayısına göre ekleme yaptırıyorum. Mesela matrisin izini bul butonuna tıklamazsam 
+onunla alakalı işlem yapmazsam onu metin dosyasına kaydetmez .
+
+string dosya yolu kodunu 590.satırda tanımladım. Dosya ile ilgili kayıt işlemlerini bu stringden kullandım.
